@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### Hi there, I am Ritu Bind 👋
+
+I have 3+ years of professional experience software developer.
+a passionate front-end developer and back-end enthusiast.
+
+- 🌱 I’m currently learning DevOps (AWS, Terraform,CI/CD)
+- 👯 I’m looking to collaborate on interesting projects.
+
 <!--
 **bind-ritu1211/bind-ritu1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
