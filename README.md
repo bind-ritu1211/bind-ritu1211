@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there, I am Ritu Bind 👋
 
 I have 3+ years of professional experience software developer.
